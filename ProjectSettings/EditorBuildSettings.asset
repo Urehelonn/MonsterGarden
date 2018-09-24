@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scene/MainScene.unity
+    guid: 1962654f1b38e964188b66be82cef17c
+  - enabled: 1
+    path: Assets/scene/MenuPageScene.unity
+    guid: 9bc9244d7e63d5948b135a1d9a127b91
+  - enabled: 1
+    path: Assets/scene/MonsterStorage.unity
+    guid: c5c0e9f9111d1474f9d15c25ba786b07
+  - enabled: 1
+    path: Assets/scene/StorePage.unity
+    guid: 43aaba80351552f4fb8270cbd6034f52

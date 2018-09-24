@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monster Garden", "Monster Garden.csproj", "{B5AEE020-0A02-2BE6-F632-BDBE84BEE44E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monster Garden.Editor", "Monster Garden.Editor.csproj", "{991D82A6-4BB8-49EA-D783-B6B593E1B7BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monster Garden.Editor", "Monster Garden.Editor.csproj", "{991D82A6-4BB8-49EA-D783-B6B593E1B7BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5AEE020-0A02-2BE6-F632-BDBE84BEE44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5AEE020-0A02-2BE6-F632-BDBE84BEE44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5AEE020-0A02-2BE6-F632-BDBE84BEE44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5AEE020-0A02-2BE6-F632-BDBE84BEE44E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{991D82A6-4BB8-49EA-D783-B6B593E1B7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991D82A6-4BB8-49EA-D783-B6B593E1B7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991D82A6-4BB8-49EA-D783-B6B593E1B7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991D82A6-4BB8-49EA-D783-B6B593E1B7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{991D82A6-4BB8-49EA-D783-B6B593E1B7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991D82A6-4BB8-49EA-D783-B6B593E1B7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991D82A6-4BB8-49EA-D783-B6B593E1B7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991D82A6-4BB8-49EA-D783-B6B593E1B7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
